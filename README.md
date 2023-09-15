@@ -2,7 +2,7 @@
 Simulando de maneira simples uma autenticação CAPTCHA
 
 - Mensagem de boas vindas explicando o sistema e a autenticação por CAPTCHA.
-- Menu funcional (loop) com opções 1) Cadastrar 2) Listar usuários e senhas 2) Sair
+- Menu funcional (loop) com opções 1) Cadastrar 2) Listar usuários e senhas 3) Sair
 - Opção 1, receber os dados do usuário (nome de usuário e senha).
 - Gerar CAPTCHA aleatório (sequência de 4 figuras geométricas) não repetidos e mostrar na tela.
 - Receber os dados de autenticação digitados pelo do usuário (figuras geométricas).
