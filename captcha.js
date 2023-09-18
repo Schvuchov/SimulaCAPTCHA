@@ -74,6 +74,7 @@ function autentiCaptcha(){
 
 
 function listar(){
+    listagem = ''
     if(usuario.length != 0){
         for(i=0; i< usuario.length; i++){
             listagem += `Usuario: ${usuario[i]}, Senha: ${senha[i]} \n`
